@@ -1,0 +1,23 @@
+string- 
+"I am string"
+
+'I am also string'
+
+'''I am also string
+    hun string 3
+'''
+
+---------indexing of string---------
+str = Hello
+H - 1
+e - 2
+l - 3
+l - 3
+o - 4
+
+-------Characteristics------------
+1- immutable
+2- indexed
+3- iterable
+
+--------Real life example---------

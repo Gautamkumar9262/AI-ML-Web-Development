@@ -1,0 +1,6 @@
+1- poly: one name multiple forms 
+2- encap: hinding data and aalowing controlled access 
+
+3- inheritence: ruse properties/methods form a parent class 
+
+4- abstraction : hiding unnecessary details 

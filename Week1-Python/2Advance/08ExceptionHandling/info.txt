@@ -1,0 +1,22 @@
+What are errors? 
+1- compile time errors
+2- run time errors
+3- logical errors
+
+error in software - bugs
+removing these error - debuging
+
+
+exception -> 
+1- start running 
+2- warning sign 
+3- catch and handle, program crash 
+
+exception handling ?
+1- zerodivision
+
+
+try-except block
+
+try- code error  
+except- handle error

@@ -1,0 +1,10 @@
+Function :- Function is block of code which is solve specific  problem and task 
+
+1- Reusability
+2- modularity
+3- scoping
+
+
+function name 
+length of function
+avoid global variable

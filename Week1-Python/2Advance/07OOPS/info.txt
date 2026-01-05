@@ -1,0 +1,27 @@
+1- classes & objects
+2- inheritence
+3- ecapsulation
+4- abstraction
+5- polymorphism
+
+class: - a class is a blueprint or template for creating objects
+
+class = car blueprint
+onject = actual car
+
+Object: - are the actual instance of a class 
+
+self - is special keyword 
+
+-------------------------------------
+
+Polymorphism -
+one name, many forms
+
+run 
+person can run fast 
+car run on petrol 
+computer program run smoothly 
+
+1 word = run 
+

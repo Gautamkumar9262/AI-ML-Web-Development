@@ -1,0 +1,8 @@
+file handling: -
+a collection of stored data 
+
+2 primary files types 
+ 1- text file (.txt, .csv )
+ 2- binary files (non text data, .png, .jpg, .pdf, .mp3)
+
+ with open() - no need file.close()
