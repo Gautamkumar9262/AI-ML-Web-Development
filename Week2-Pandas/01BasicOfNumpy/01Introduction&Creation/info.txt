@@ -1,0 +1,26 @@
+Problem - Manipulation with Large Data 
+        
+NumPy - Numerical Python 
+
+Developer of Pandas 
+Trowis Oliphant in 2005
+
+featurs of NumPy -
+        speed 
+        less memory 
+        easy math 
+        operation
+
+        Used in AI , DS, DA 
+        Stock market and finance 
+
+        medical research 
+
+        Image processing 
+
+Compare with Python list with numpy array
+
+Diff        Numpy      Array 
+speed       50-100x    slow
+memory      less       more 
+calculation easy       loop  
