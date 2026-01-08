@@ -1,0 +1,3 @@
+Pandas - used data cleaning, data tranformation and structuring for finding insight and patter in data analysis (large scale data cleaning and analyzing)
+
+pandas created by - McKinney in 2008
